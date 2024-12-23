@@ -31,3 +31,7 @@ term-project/sample_submission.csv
 term-project/test.csv
 term-project/train.csv
 term-project/saved_model/bert_comparison_model.pt
+term-project/saved_model/bert_comparison_model2.pt
+term-project/saved_model/best_model.pth
+term-project/bert-base-uncased/vocab.txt
+term-project/bert-base-uncased/model.safetensors
